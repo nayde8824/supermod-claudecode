@@ -1,0 +1,9 @@
+{
+  "name": "supermod-claudecode",
+  "version": "1.0.0",
+  "description": "Usage bar above the prompt (context, rate limits, cost, tokens) and a Workbranch pane: trial copies of your project you can save, bring into main or throw away. Italian and English.",
+  "author": { "name": "Valerio Monteforte" },
+  "license": "MIT",
+  "keywords": ["mod", "usage", "worktree", "git", "workbranch"],
+  "types": "./types/index.d.ts"
+}

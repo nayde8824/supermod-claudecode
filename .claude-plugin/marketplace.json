@@ -1,0 +1,13 @@
+{
+  "name": "supermod-claudecode",
+  "description": "Supermod ClaudeCode: a Claude Code mod with a usage bar and a git worktree pane.",
+  "owner": { "name": "Valerio Monteforte" },
+  "plugins": [
+    {
+      "name": "supermod-claudecode",
+      "source": "./",
+      "description": "Usage bar above the prompt and a Workbranch pane (git worktrees made simple). Italian and English.",
+      "version": "1.0.0"
+    }
+  ]
+}

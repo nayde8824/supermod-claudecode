@@ -1,0 +1,17 @@
+# Dipendenze e build
+node_modules/
+.next/
+dist/
+build/
+out/
+.dart_tool/
+Pods/
+
+# Segreti
+.env
+.env.*
+!.env.example
+
+# Sistema
+.DS_Store
+*.log
